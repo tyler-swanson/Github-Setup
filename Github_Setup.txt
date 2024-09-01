@@ -1,0 +1,5 @@
+Gain experience using Git and GitHub
+
+Create a repository
+Push to GitHub
+Perform simple commits
